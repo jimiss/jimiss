@@ -13,7 +13,7 @@
 <p align="center">
 </div>
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
-- 🔭 I’m currently working on  **Penetration Testing**
+🔭 I’m currently working on  **Penetration Testing**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Geek**
