@@ -11,7 +11,9 @@
 </h5>
 <br>
 <p align="center">
- 
+ </div>
+
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 ### Hi👋
 - 🔭 I’m currently working on  **Penetration Testing**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
@@ -54,17 +56,3 @@
       </a>
       <br>Kali
     </td>
-<!-- start dynamic spotify spngs API -->
-### i also like music :headphones:
-
-<!-- Nothing weird to see here -->
-<p align="center">currently jamming to</p>
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=XULMZ907ios">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://www.youtube.com/watch?v=XULMZ907ios">
-  </a>
-</p>
-
-<p align="center">
-</p>
