@@ -12,7 +12,7 @@
 <br>
 <p align="center">
  
-### Hi👋![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/jimiss)
+### Hi👋
 - 🔭 I’m currently working on  **Penetration Testing**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 💬 Ask me about anything, I am happy to help
