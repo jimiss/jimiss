@@ -6,7 +6,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/inpallis/" title="LinkedIn Profile"><img width="22" src="https://www.svgrepo.com/show/110227/linkedin-big-logo.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/inpallis/" title="LinkedIn Profile"><img width="22" src="https://www.svgrepo.com/show/138936/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/jimisaiyan" title="Twitter Profile"><img width="22" src="https://www.svgrepo.com/show/76332/twitter.svg"> Twitter</a></code>
 </h5>
 <br>
@@ -15,7 +15,10 @@
   <br>
   📫 How to reach me: <a href="mailto: dmitris@protonmail.com">dmitris@protonmail.com</a>
 </p>
-
+<hr>
+<h2 align="center">🔥 Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
 <table>
   <tr>
     <td align="center" width="96">
