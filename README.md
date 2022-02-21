@@ -11,14 +11,17 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Dimitris, Ethical Hacker
-  <br>
-  📫 How to reach me: <a href="mailto: dmitris@protonmail.com">dmitris@protonmail.com</a>
-</p>
-<hr>
-<h2 align="center">🔥 Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
+ 
+### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/jimiss)
+- 🔭 I’m currently working on  **Penetration Testing**
+- :neutral_face: I have a **love/hate** relationship with **Programming**
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: **Geek**
+- 👨 Know more about me at [Sourcerer](https://bio.site/gejwmq) 
+
+<br />
+<br />
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -51,13 +54,17 @@
       </a>
       <br>Kali
     </td>
-</table>
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/jimiss/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/jimiss/github-stats-transparent/output/generated/languages.svg)
+<!-- start dynamic spotify spngs API -->
+### i also like music :headphones:
 
-</a>
+<!-- Nothing weird to see here -->
+<p align="center">currently jamming to</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=XULMZ907ios">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://www.youtube.com/watch?v=XULMZ907ios">
+  </a>
+</p>
 
-<br>
+<p align="center">
+</p>
