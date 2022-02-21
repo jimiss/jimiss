@@ -16,7 +16,6 @@
 🔭 I’m currently working on Penetration Testing
 - :neutral_face: I have a love/hate relationship with Programming
 - 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: Geek
 - 👨 Know more about me at https://bio.site/gejwmq
 </div>
 <br />
