@@ -21,7 +21,7 @@
 </div>
 <br />
 <br />
-
+<summary><b> Technologies I've used :point_down: </b></summary>
 <table>
   <tr>
     <td align="center" width="96">
