@@ -48,7 +48,7 @@
       <br>Kubernetes
     </td>
     <td align="center"  width="96">
-        <img src="https://www.linkpicture.com/q/image2vector.svg" width="48" height="48" alt="Kali" />
+        <img src="https://cutewallpaper.org/24/kali-linux-logo-png/120157680.jpg" width="48" height="48" alt="Kali" />
       </a>
       <br>Kali
     </td>
